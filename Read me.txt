@@ -1,0 +1,2 @@
+Acknowledgement
+The Udacity lessons on Pandas and the project walthrough helped me and gave me ideas on how to carry out my projects. I also appreciate the contributions of my friends and colleagues in the Edo worx udacity Data analysis programme.
